@@ -56,6 +56,7 @@
 #include <netdb.h>
 #include <pwd.h>
 #include <stdio.h>
+#include <strings.h>
 
 #include <sys/stat.h>
 #include <sys/wait.h>
